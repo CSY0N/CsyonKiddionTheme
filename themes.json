@@ -65,6 +65,19 @@
       "ItemWidth" : 310,
       "ItemSpacing" : 1
     },
+	{
+      "Name" : "CSYON Theme V4",
+      "FontName" : "Remachine",
+      "ItemColor" : "000000",
+      "TextColor" : "ffffff",
+      "SelectedItemColor" : "ff0000",
+      "SelectedTextColor" : "f9f9f9",
+      "BackgroundColor" : "000000",
+      "TransparencyColorKey" : "001337",
+      "ItemHeight" : 20,
+      "ItemWidth" : 350,
+      "ItemSpacing" : 0
+    },
     {
       "Name" : "Throwback",
       "FontName" : "MS Sans Serif",
